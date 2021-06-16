@@ -1,4 +1,8 @@
-﻿#include <iostream>
+﻿Сделать конвертер величин. Формат ввода: Направление_Перевода Величина.
+a. Длина (метры, версты, километры)
+
+
+#include <iostream>
 using namespace std;
 
 float mnozhitel;

@@ -1,4 +1,8 @@
-﻿#include <ctime>
+Преобразовать матрицу, умножив элементы каждой строки на значение второго
+элемента этой строки.
+
+
+#include <ctime>
 #include <iostream>
 #include <cmath>
 using namespace std;

@@ -1,4 +1,8 @@
-﻿#include <iostream>
+Реализовать сложение, вычитание, умножение, транспонирование матриц 
+
+
+
+#include <iostream>
 #include <ctime>
 #include <cmath>
 using namespace std;

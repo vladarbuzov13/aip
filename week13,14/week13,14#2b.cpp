@@ -1,4 +1,8 @@
-﻿#include <iostream>
+Вычислить сумму элементов массива:
+b. больших 9, меньших 20, меньших 3,
+
+
+#include <iostream>
 #include <ctime>
 
 using namespace std;
